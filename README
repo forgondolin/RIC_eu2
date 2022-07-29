@@ -1,0 +1,12 @@
+
+**This is the repository that contains the firmware code for the RIC IoT project**
+
+    Hardware: 
+     - Lilypad;
+     - MPU-6050;
+     - Led tape;
+     - Battery;
+     - USB/TTL Converter.
+     
+     
+     To compile you can use Arduino IDE or the arduino core on CLI and generate the binary.
